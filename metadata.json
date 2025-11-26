@@ -1,0 +1,7 @@
+{
+  "name": "Gemini OmniTool",
+  "description": "An all-in-one AI dashboard featuring Weather Forecasting, YouTube Tools, and Smart Translation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
